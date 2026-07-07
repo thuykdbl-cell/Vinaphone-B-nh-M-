@@ -1,0 +1,6 @@
+{
+  "name": "VinaPhone VNPT Bình Mỹ",
+  "description": "Kênh đăng ký gói cước và tư vấn dịch vụ VinaPhone VNPT Bình Mỹ trực tuyến, tích hợp công cụ quản trị danh sách đăng ký.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
